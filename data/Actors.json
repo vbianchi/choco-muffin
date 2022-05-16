@@ -7,5 +7,8 @@ null,
 {"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[7,0,0,20,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Albert","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""}
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Intro","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"SF_Actor1_3","characterIndex":2,"characterName":"SF_Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elov","nickname":"Elov","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":5,"characterName":"SF_Monster","classId":4,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dreamborn","nickname":"","note":"","profile":""}
 ]
