@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"IntroMap","order":1,"parentId":0,"scrollX":1508,"scrollY":849.3333333333334},
-{"id":2,"expanded":true,"name":"City01","order":3,"parentId":0,"scrollX":1508,"scrollY":849.3333333333334},
-{"id":3,"expanded":true,"name":"House1","order":4,"parentId":2,"scrollX":1508,"scrollY":849.3333333333334},
-{"id":4,"expanded":true,"name":"SciFiInside","order":2,"parentId":0,"scrollX":1508,"scrollY":849.3333333333334},
-{"id":5,"expanded":true,"name":"020-LandingZone","order":5,"parentId":0,"scrollX":1518.6666666666667,"scrollY":1017.3333333333334}
+{"id":1,"expanded":true,"name":"IntroMap","order":2,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":2,"expanded":true,"name":"City01","order":4,"parentId":0,"scrollX":1496,"scrollY":837.3333333333334},
+{"id":3,"expanded":true,"name":"House1","order":5,"parentId":2,"scrollX":1496,"scrollY":837.3333333333334},
+{"id":4,"expanded":true,"name":"SciFiInside","order":3,"parentId":0,"scrollX":1496,"scrollY":837.3333333333334},
+{"id":5,"expanded":true,"name":"020-LandingZone","order":6,"parentId":0,"scrollX":1496,"scrollY":997.3333333333334},
+{"id":6,"expanded":false,"name":"DebugMap","order":1,"parentId":0,"scrollX":1496,"scrollY":837.3333333333334}
 ]
