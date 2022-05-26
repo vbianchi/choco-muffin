@@ -1,0 +1,14 @@
+STARBIRD MZ TILE SETS TERMS OF USE
+
+The tiles in this collection include edits or RPG Maker MZ RTP materials. 
+They are distributed in compliance with RPG Maker's EULA. You MUST 
+adhere to the following terms:
+
+1. YOU MUST OWN A COPY OF RPG MAKER MZ TO USE THESE TILES
+2. YOU MAY ONLY USE THESE TILES IN AN RPG MAKER ENGINE (THEY MAY BE USED IN NON-MZ RPG MAKER ENGINES PROVIDED YOU OWN MZ)
+3. YOU MAY NOT REPOST THESE TILES ANYWHERE (THIS INCLUDES "BEST OF" COLLECTIONS AND SIMILAR)
+4. YOU MUST CREDIT STARBIRD
+
+Thank you and happy game-making!
+-Starbird
+
