@@ -9,5 +9,6 @@ var $plugins =
 {"name":"GALV_LayerGraphicsMZ","status":true,"description":"(v.1.2) Create graphic layers for parallax mapping, fog, etc. View documentation for plugin commands.","parameters":{"fixPosition":"true"}},
 {"name":"GALV_CharacterShadowsMZ","status":true,"description":"(v.1.0) Display shadows under the player or events on the map.","parameters":{"sImage":"Shadow1","sOffset":"5"}},
 {"name":"GALV_ActionIndicatorsMZ","status":true,"description":"(v.1.0) Display an icon when the player is able to interact with an event. View help for comment tag.","parameters":{"yOffset":"30","zPosition":"99","autoHide":"true","iconOpacity":"255"}},
-{"name":"Cae_DashOpts","status":true,"description":"v1.0 - Dash options: speed, frame-skip, event dashing, etc.","parameters":{"Dash Extra Speed":"1.00","Skip Standing Frame":"false","Add Save Data":"false","--- Advanced ---":"","Property: dashSpeed":"_dashSpeed","Property: isDashing":"_isDashing","Property: Save":"Cae_DashOpts"}}
+{"name":"Cae_DashOpts","status":true,"description":"v1.0 - Dash options: speed, frame-skip, event dashing, etc.","parameters":{"Dash Extra Speed":"1.00","Skip Standing Frame":"false","Add Save Data":"false","--- Advanced ---":"","Property: dashSpeed":"_dashSpeed","Property: isDashing":"_isDashing","Property: Save":"Cae_DashOpts"}},
+{"name":"Rhyme_MapSmoothScrolling","status":true,"description":"this plugin permit to smooth scroll in map","parameters":{"SpeedDivider":"8"}}
 ];
